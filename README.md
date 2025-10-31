@@ -1,1 +1,1 @@
-# ML_miniproject
+# Diabetes-Disease-Prediction-Model
